@@ -1,0 +1,9 @@
+graft src
+
+include *.md
+
+include setup.cfg
+include LICENSE.txt
+
+include versioneer.py
+include src/tcal/_version.py
