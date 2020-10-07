@@ -14,7 +14,7 @@ def main():
 
     # Start the Qt Application.
 
-    app  = QtWidgets.QApplication(sys.argv)
+    app = QtWidgets.QApplication(sys.argv)
 
     # Initialise the main window.
 
@@ -27,5 +27,6 @@ def main():
     mwin.show()
     app.exec_()
 
-if __name__=='__main__':
+
+if __name__ == "__main__":
     main()
