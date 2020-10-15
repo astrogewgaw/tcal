@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := help
-PKG = tcal
+PKG = tcal-astro
 PKG_DIR = src
 TESTS_DIR = tests
 
